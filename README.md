@@ -5,7 +5,7 @@
 Using geospatial data integration, SQL, and model building within ArcGIS Pro, I created an automated public dashboard hosted on ArcGIS Online to review USGS earthquake activity, Salt Water Disposal (SWD) wells, and mapped subsurafce fault systems in relation to the New Mexico Energy, Minerals, and Natural Resources Department's (EMNRD) seismic response protocol.
 
 This tool provides an automated approach to expedite the review process for operators and the NMOCD.
-
+https://melgeosciences.maps.arcgis.com/apps/dashboards/74a6f612482540e39fbfdabb11b64c91
 
 
 ## **Business Problem:**
